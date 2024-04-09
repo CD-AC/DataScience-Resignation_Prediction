@@ -1,2 +1,2 @@
-# DataScience-Business_HR_Prediction_Models
+# DataScience-Resignation_Prediction
 ![Banner Image](https://raw.githubusercontent.com/CD-AC/DataScience-Prediction_Models_HR/main/DataFlow.png)
